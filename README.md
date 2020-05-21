@@ -7,7 +7,7 @@ You are given a few known and unknown numbers and the operations and the final a
 that produce the final answer.
 At most 4 numbers are given and you can't choose repeating numbers
 
-![]('digit_image.jpeg')
+![](digit_image.jpeg)
 
 ## My Solution
 
